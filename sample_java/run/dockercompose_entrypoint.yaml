@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  echo_entry:
+    build: ./
+    container_name: echo_from_entry
