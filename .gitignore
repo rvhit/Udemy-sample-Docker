@@ -1,2 +1,7 @@
+#ignore these
 *.pdf
 *.zip
+Youtube/
+
+#don't ignore these
+!simply-static-1-1706362010.zip
